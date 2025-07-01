@@ -32,8 +32,6 @@ Passionate **videogame developer and designer** from Spain, specialized in creat
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-computer&layout=compact&theme=radical)
 
-## 🎮 Featured Game Projects
-
 ## 🎨 Game Development Skills
 - **Game Design:** Mechanics design, Level design, Game balancing
 - **Programming:** Gameplay systems, AI behavior, Performance optimization
