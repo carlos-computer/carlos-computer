@@ -26,9 +26,6 @@ Passionate **videogame developer and designer** from Spain, specialized in creat
 ![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-computer&layout=compact&theme=radical)
-
 ## 🎨 Game Development Skills
 - **Game Design:** Mechanics design, Level design, Game balancing
 - **Programming:** Gameplay systems, AI behavior, Performance optimization
